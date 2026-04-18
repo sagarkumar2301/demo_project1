@@ -1,4 +1,4 @@
-Demo Project 1 – Day 2 (Wipro Pre-Skill Training)
+Demo Project 1 – Day 3 (Wipro Pre-Skill Training)
 
 # Concepts Used
 - Class and Object creation
